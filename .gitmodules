@@ -1,0 +1,3 @@
+[submodule "ipl-auction-client"]
+	path = ipl-auction-client
+	url = https://github.com/Rahul-Senthil/ipl-auction-client.git
